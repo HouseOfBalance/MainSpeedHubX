@@ -1,5 +1,5 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Settings.lua"))()
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Main/main/Library/V3.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HouseOfBalance/SpeedHubXSetting/main/Settings.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/HouseOfBalance/MainSpeedHubX/main/Library/V3.lua"))()
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local index = ReplicatedStorage.common.packages._Index
