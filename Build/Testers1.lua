@@ -1,5 +1,5 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Settings.lua"))()
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Main/main/Library/V3.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HouseOfBalance/SpeedHubXSetting/main/Settings.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/HouseOfBalance/MainSpeedHubX/main/Library/V3.lua"))()
 local World1, World2, World3 = game.PlaceId == 2753915549, game.PlaceId == 4442272183, game.PlaceId == 7449423635
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
